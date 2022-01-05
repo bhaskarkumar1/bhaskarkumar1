@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhaskar Kumar
+- 👋 Hi, I’m<h1> Bhaskar Kumar</h1>
 
 - 👀 I’m interested in Python and java programming, Machine Learning, Deep Learning
 
