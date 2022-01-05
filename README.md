@@ -1,4 +1,4 @@
-## Hola, I'm [Pawan Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
+## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic"  /> </p>
 
