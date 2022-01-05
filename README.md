@@ -37,10 +37,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Gym-freak💪.
 
-[![Twitter: bhaskarkumar_](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/bhaskarkumar_")
-[![Linkedin: BHASKAR KUMAR](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaskar-kumar-61a3271b3/)](https://www.linkedin.com/in/bhaskar-kumar-61a3271b3/)
-[![GitHub bhaskarkumar1](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/bhaskarkumar1)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://bhaskarkumar1.github.io/cv/)
+[![Twitter: bhaskarkumar_]](https://twitter.com/bhaskarkumar_")
+[![Linkedin: BHASKAR KUMAR]](https://www.linkedin.com/in/bhaskar-kumar-61a3271b3/)
+[![GitHub bhaskarkumar1]](https://github.com/bhaskarkumar1)
+[![website]](https://bhaskarkumar1.github.io/cv/)
 
 
 **Languages and Tools:**  
