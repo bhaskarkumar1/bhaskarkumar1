@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on ML projects.
 - 🤔 I’m looking for help with TensorFlow.
 - 💬 Ask me about Webdevelopment or any tech-related stuff.
-- 📫 How to reach me:<img src="https://tenor.com/view/gmail-gif-22157833" width="30" height="30" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
+<img src="https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="30" height="30" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Gym-freak💪.
 
