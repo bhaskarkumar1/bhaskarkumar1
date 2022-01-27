@@ -2,13 +2,13 @@
 
 
 
-[![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png) Bhaskar Kumar](https://linkedin.com/in/bhaskar-kumar-61a3271b3/)
+[![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png)_LinkedIn](https://linkedin.com/in/bhaskar-kumar-61a3271b3/)
 &nbsp;
-[![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) @bhaskarkumar1](https://github.com/bhaskarkumar1)
+[![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) GitHub](https://github.com/bhaskarkumar1)
 &nbsp;
-[![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png) @bhaskarkumar_](https://twitter.com/bhaskarkumar_)
+[![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png) Twitter](https://twitter.com/bhaskarkumar_)
 &nbsp;
-[![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png) @bhaskar__kumar_singh](https://www.instagram.com/bhaskar__kumar_singh/)
+[![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png) Instagram](https://www.instagram.com/bhaskar__kumar_singh/)
 &nbsp;
 <br />
 - <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
