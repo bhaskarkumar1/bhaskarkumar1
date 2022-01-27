@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently learning more about Webdevelopment.
+- <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
 - 🌱 I have worked on Speech Data and Tweet-Summarization Project.
 - 👯 I’m looking to collaborate on ML projects.
 - 🤔 I’m looking for help with TensorFlow.
