@@ -14,7 +14,7 @@
 
 - <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
 - I have worked on Speech Data and Tweet-Summarization Project.
-- 👯 <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="30" height="20" /> I’m looking to collaborate on ML projects.
+- <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="35" height="30" /> I’m looking to collaborate on ML projects.
 - 🤔 I’m looking for help with TensorFlow.
 - 💬 Ask me about Webdevelopment or any tech-related stuff.
 - <img src="https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="30" height="20" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
