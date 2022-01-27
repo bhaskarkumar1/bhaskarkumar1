@@ -17,9 +17,9 @@
 - <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="30" height="30" /> I’m looking to collaborate on ML projects.
 - <img src="https://c.tenor.com/EqR9Eq-A9xMAAAAi/thinking-face-people.gif" width="30" height="30" /> I’m looking for help with TensorFlow.
 - <img src="https://c.tenor.com/y4CB6Si7MSQAAAAi/question-mark-symbols.gif" width="30" height="30" />  Ask me about Webdevelopment or any tech-related stuff.
-- <img src="https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="30" height="30" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
-- <img src="https://c.tenor.com/DFZ_22hpHjsAAAAi/man-shrugging-people.gif" width="30" height="30" /> Pronouns: He/His
-- <img src="https://c.tenor.com/q9_vg_S25VgAAAAi/weightlifting-activity.gif" width="30" height="30" />  Fun fact: I am a Gym-freak.
+- <img src="https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="30" height="25" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
+- <img src="https://c.tenor.com/DFZ_22hpHjsAAAAi/man-shrugging-people.gif" width="35" height="35" /> Pronouns: He/His
+- <img src="https://c.tenor.com/q9_vg_S25VgAAAAi/weightlifting-activity.gif" width="35" height="35" />  Fun fact: I am a Gym-freak.
 
 <div align="center">
 
