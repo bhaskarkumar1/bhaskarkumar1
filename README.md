@@ -14,11 +14,10 @@
 - <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
 - <img src="https://c.tenor.com/PVaqycnQmZoAAAAi/grinning-face-with-big-eyes-people.gif" width="30" height="30" /> I have worked on Speech Data and Tweet-Summarization Project.
 - <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="30" height="30" /> I’m looking to collaborate on ML projects.
-- <img src="https://c.tenor.com/EqR9Eq-A9xMAAAAi/thinking-face-people.gif" width="30" height="30" /> I’m looking for help with TensorFlow.
+<!-- - <img src="https://c.tenor.com/EqR9Eq-A9xMAAAAi/thinking-face-people.gif" width="30" height="30" /> I’m looking for help with TensorFlow. -->
 - <img src="https://c.tenor.com/y4CB6Si7MSQAAAAi/question-mark-symbols.gif" width="30" height="30" />  Ask me about Webdevelopment or any tech-related stuff.
 - <img src="https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="30" height="25" /> [Gmail - bhaskarKumar.india@gmail.com](bhaskarKumar.india@gmail.com) 
 - <img src="https://c.tenor.com/DFZ_22hpHjsAAAAi/man-shrugging-people.gif" width="35" height="35" /> Pronouns: He/His
-- <img src="https://c.tenor.com/q9_vg_S25VgAAAAi/weightlifting-activity.gif" width="35" height="35" />  Fun fact: I am a Gym-freak.
 
 ## Programming Languages
 <img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="50" height="50" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="75" height="50" /> <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" width="110" height="50" />
