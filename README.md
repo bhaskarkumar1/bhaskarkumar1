@@ -1,4 +1,4 @@
-## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="70" height="70" />
+## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://tenor.com/bEAlI.gif" width="70" height="70" />
 
 
 
