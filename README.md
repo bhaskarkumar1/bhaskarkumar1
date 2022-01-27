@@ -1,4 +1,4 @@
-## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://tenor.com/bEAlI.gif" width="70" height="70" />
+## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="70" height="70" />
 
 
 
