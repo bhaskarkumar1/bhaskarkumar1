@@ -13,6 +13,7 @@
 
 
 - <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
+- Languages <img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="35" height="30" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="35" height="30" /> <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" width="60" height="30" />
 - <img src="https://c.tenor.com/PVaqycnQmZoAAAAi/grinning-face-with-big-eyes-people.gif" width="30" height="30" /> I have worked on Speech Data and Tweet-Summarization Project.
 - <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="30" height="30" /> I’m looking to collaborate on ML projects.
 - <img src="https://c.tenor.com/EqR9Eq-A9xMAAAAi/thinking-face-people.gif" width="30" height="30" /> I’m looking for help with TensorFlow.
