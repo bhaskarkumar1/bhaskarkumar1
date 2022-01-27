@@ -1,4 +1,5 @@
-## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
+## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 
 
 [![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png) Bhaskar Kumar](https://linkedin.com/in/bhaskar-kumar-61a3271b3/)
