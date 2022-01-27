@@ -1,7 +1,7 @@
 ## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://img.icons8.com/glyph-neue/344/github.png width=20 height="20") GitHub](https://github.com/)
+[![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) GitHub](https://github.com/)
 
 - 🔭 I’m currently working on Speech Data.
 - 🌱 I’m currently learning more about Webdevelopment.
