@@ -28,7 +28,7 @@
 <br />
 <br />
 ## Technologies
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="200" height="50" />    <img src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" width="200" height="50" />   <img src="https://www.vhv.rs/dpng/d/612-6126558_react-logo-png-react-js-logo-svg-transparent.png" width="200" height="62" />      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="200" height="50" />
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="200" height="50" />    <img src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" width="200" height="60" />   <img src="https://www.vhv.rs/dpng/d/612-6126558_react-logo-png-react-js-logo-svg-transparent.png" width="200" height="62" />      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="200" height="70" />
 
 <div align="center">
 
