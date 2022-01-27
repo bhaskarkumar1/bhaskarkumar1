@@ -1,6 +1,6 @@
 ## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
 
-<div>
+
 [![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png) Bhaskar Kumar](https://linkedin.com/in/bhaskar-kumar-61a3271b3/)
 &nbsp;
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) @bhaskarkumar1](https://github.com/bhaskarkumar1)
@@ -9,7 +9,6 @@
 &nbsp;
 [![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png) @bhaskar__kumar_singh](https://www.instagram.com/bhaskar__kumar_singh/)
 &nbsp;
-</div>
 
 
 
