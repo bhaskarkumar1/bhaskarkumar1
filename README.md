@@ -21,7 +21,7 @@
 - <img src="https://c.tenor.com/q9_vg_S25VgAAAAi/weightlifting-activity.gif" width="35" height="35" />  Fun fact: I am a Gym-freak.
 
 ## Programming Languages
-<img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="50" height="50" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="85" height="60" /> <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" width="100" height="45" />
+<img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="50" height="50" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="75" height="50" /> <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" width="110" height="50" />
 <br />
 
 ## Technologies
