@@ -1,5 +1,5 @@
 ## Hola, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) 👋
-[![Linkedin](https://iconscout.com/icon/linkedin-160) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-44-151145.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) GitHub](https://github.com/)
 
