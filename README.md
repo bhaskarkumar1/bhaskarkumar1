@@ -1,4 +1,4 @@
-## HellO, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="70" height="70" />
+## Hello, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="70" height="70" />
 
 🔭 I’m currently working on MERN Stack development and DSA<br>👯 I’m looking to collaborate on MERN project && DSA<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬 Ask me about MERN Stack && DSA<br>⚡ Fun fact: I am a fitness-freak
 
