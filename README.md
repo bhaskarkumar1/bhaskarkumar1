@@ -2,6 +2,11 @@
 
 🔭 I’m currently working on MERN Stack development and DSA<br>👯 I’m looking to collaborate on MERN project && DSA<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬 Ask me about MERN Stack && DSA<br>⚡ Fun fact: I am a fitness-freak
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkumar1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskar-kumar-61a3271b3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16772608) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@bhaskarkrsingh_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhaskar__kumar_singh) 
@@ -26,17 +31,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkumar1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhaskarkumar1&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@bhaskarkrsingh_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
