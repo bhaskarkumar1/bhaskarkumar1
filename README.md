@@ -20,7 +20,7 @@
 - <img src="https://c.tenor.com/DFZ_22hpHjsAAAAi/man-shrugging-people.gif" width="35" height="35" /> Pronouns: He/His
 
 ## Programming Languages
-<img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="50" height="50" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="75" height="50" /> <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" width="110" height="50" />
+<img src="https://c.tenor.com/4HB9Nz7r4PsAAAAi/java-coffee.gif" width="50" height="60" /> <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="75" height="50" /> 
 <br />
 
 ## Technologies
