@@ -6,13 +6,13 @@
 &nbsp;
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png) GitHub](https://github.com/bhaskarkumar1)
 &nbsp;
-[![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png) Twitter](https://twitter.com/bhaskarkumar_)
+[![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png) Twitter](https://twitter.com/bhaskarkrsingh_)
 &nbsp;
 [![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png) Instagram](https://www.instagram.com/bhaskar__kumar_singh/)
 &nbsp;
 <br />
 - <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" width="30" height="20" /> I’m currently learning more about Webdevelopment.
-- <img src="https://c.tenor.com/PVaqycnQmZoAAAAi/grinning-face-with-big-eyes-people.gif" width="30" height="30" /> I have worked on Speech Data and Tweet-Summarization Project.
+- <img src="https://c.tenor.com/PVaqycnQmZoAAAAi/grinning-face-with-big-eyes-people.gif" width="30" height="30" /> I have worked on Speech Data and Tweet-Summarization Project at IIT Patna.
 - <img src="https://c.tenor.com/dfCZMG1AxAoAAAAi/soccer-ball-joypixels.gif" width="30" height="30" /> I’m looking to collaborate on ML projects.
 <!-- - <img src="https://c.tenor.com/EqR9Eq-A9xMAAAAi/thinking-face-people.gif" width="30" height="30" /> I’m looking for help with TensorFlow. -->
 - <img src="https://c.tenor.com/y4CB6Si7MSQAAAAi/question-mark-symbols.gif" width="25" height="25" />  Ask me about Webdevelopment or any tech-related stuff.
