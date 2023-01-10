@@ -1,18 +1,9 @@
 ## Hello, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="70" height="70" />
 
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        🔭 I’m currently working on MERN Stack development and DSA<br>👯 I’m looking to collaborate on MERN project && DSA<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬     Ask me about MERN Stack && DSA<br>⚡ Fun fact: I am a fitness-freak
+ 🔭 I’m currently working on MERN Stack development and DSA<br>👯 I’m looking to collaborate on MERN project && DSA<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬     Ask me about MERN Stack && DSA<br>⚡ Fun fact: I am a fitness-freak
 
-    </div>
-    <div style="display: inline-block;">
-	# 📊 GitHub Stats:
-	![](https://github-readme-stats.vercel.app/api?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-	![](https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkumar1&theme=dark&hide_border=false)<br/>
-	![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    </div>
-   
-</div>
+    
+
 
 
 ## 🌐 Socials:
@@ -37,7 +28,10 @@
 ### DataBase
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-
+# 📊 GitHub Stats:
+	![](https://github-readme-stats.vercel.app/api?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkumar1&theme=dark&hide_border=false)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhaskarkumar1&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
