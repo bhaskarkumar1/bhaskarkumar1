@@ -12,12 +12,7 @@
 |   | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhaskarkumar1&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=full)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
