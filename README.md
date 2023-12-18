@@ -1,7 +1,7 @@
 ## Hello, I'm [Bhaskar Kumar!](https://bhaskarkumar1.github.io/cv/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="70" height="70" />
  🔭 I’m currently working on MERN Stack development and DSA<br>👯 I’m looking to collaborate on MERN project && DSA<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬     Ask me about MERN Stack && DSA<br>⚡ Fun fact: I am a fitness-freak
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskar-kumar-61a3271b3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16772608) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@bhaskarkrsingh_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhaskar__kumar_singh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskar-kumar-61a3271b3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16772608) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@bhaskarkrsingh_) 
 
 # 💻 Tech Stack:
 
